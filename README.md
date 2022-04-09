@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, fico feliz em ver você a bordo! 👋
 
 <!--
 **retoso/retoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
