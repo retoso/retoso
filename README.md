@@ -1,9 +1,9 @@
 
 <h2 align="center">
-Olá, fico feliz em ver você a bordo!
-Hello, glad to see you on board!
-Hallo, schön, Sie an Bord zu sehen! 
-Ciao, piacere di vederti a bordo!
+Olá, fico feliz em ver você a bordo!<br>
+Hello, glad to see you on board!<br>
+Hallo, schön, Sie an Bord zu sehen! <br>
+Ciao, piacere di vederti a bordo!<br>
 </h2>
 <br>
 <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=retoso&show_icons=true& " />
