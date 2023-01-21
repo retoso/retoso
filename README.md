@@ -27,12 +27,20 @@ Ciao, piacere di vederti a bordo!<br>
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
  </div>
-
-
-<div align="center">
+ 
+ <div align="center">
   
   ![Snake animation](https://github.com/retoso/retoso/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ 
+ 
+<div align="center">
+  <a href="https://github.com/retoso">
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=retoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhamyllie&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
 
 
