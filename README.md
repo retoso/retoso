@@ -33,9 +33,5 @@ Ciao, piacere di vederti a bordo!<br>
  
 </div>
 
-<div align="center">
-  <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=retoso&layout=compact)]" />
-</div>
-  
 
 
