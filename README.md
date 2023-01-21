@@ -6,7 +6,8 @@ Ciao, piacere di vederti a bordo!<br>
 </h2>
 
 <div align="center">
-  <a href = "mailto:tonelli.renato@gmail.com"><img src="https://img.icons8.com/clouds/100/000000/gmail.png" title="Email" /></a>
+   <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" alt="tonelli.renato@gmail.com"
+                            target="_blank"><img src="https://img.icons8.com/clouds/100/000000/gmail.png" title="Email" /></a>
   <a href="http://www.linkedin.com/in/renatosouza1969" target="_blank"><img src="https://img.icons8.com/clouds/100/000000/linkedin.png" title="Linkedin" /></a> 
 </div>
 
