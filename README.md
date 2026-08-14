@@ -58,16 +58,6 @@ Transformo processos complexos em fluxos inteligentes, escaláveis e auditáveis
 </div>
 
 
----
-
-### 🐍 Contributions Flow
-
-<div align="center">
-  <img src="https://github.com/retoso/retoso/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
